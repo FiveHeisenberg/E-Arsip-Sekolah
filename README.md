@@ -36,3 +36,6 @@ E-Arsip Sekolah adalah aplikasi berbasis **Flutter** yang dirancang untuk memban
    ```bash
    git clone https://github.com/FiveHeisenberg/E-Arsip-Sekolah.git
    cd E-Arsip-Sekolah
+   flutter pub get
+   flutter run
+
